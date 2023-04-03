@@ -56,7 +56,6 @@ dependencies:
   - pycparser=2.20=py_0
   - python=3.7.7=hcff3b4d_5
   - python_abi=3.7=1_cp37m
-  - pytorch=1.2.0=py3.7_cuda10.0.130_cudnn7.6.2_0
   - readline=8.0=h7b6447c_0
   - scipy=1.4.1=py37h0b6359f_0
   - setuptools=47.1.1=py37_0
