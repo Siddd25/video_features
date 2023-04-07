@@ -55,6 +55,7 @@ dependencies:
   - protobuf=3.11.4=py37he6710b0_0
   - pycparser=2.20=py_0
   - python=3.7.7=hcff3b4d_5
+  - pytorch=1.2.0=cuda100py37h938c94c_0
   - python_abi=3.7=1_cp37m
   - readline=8.0=h7b6447c_0
   - scipy=1.4.1=py37h0b6359f_0
@@ -74,6 +75,7 @@ dependencies:
   - wheel=0.33.4=py37_0
   - x264=1!152.20180806=h14c3975_0
   - xz=5.2.5=h7b6447c_0
+  - torchvision=0.4.0=cuda100py37hecfc37a_0
   - zlib=1.2.11=h7b6447c_3
   - pip:
     - llvmlite==0.32.1
